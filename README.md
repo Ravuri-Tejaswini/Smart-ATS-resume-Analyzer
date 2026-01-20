@@ -46,3 +46,30 @@ This project aims to:
 ---
 
 ## 📂 Project Structure
+ATS-Resume-Analyzer/ │ ├── src/                # Source code ├── assets/             # UI assets / design references ├── sample_resumes/     # Sample input resumes ├── README.md           # Project documentation
+
+---
+
+## 🚀 How It Works
+1. User provides a resume
+2. User enters a job description
+3. System analyzes resume content
+4. Matches keywords with job description
+5. Displays missing skills and improvement suggestions
+
+---
+
+## 📈 Learning Outcomes
+- Understanding of ATS resume screening
+- Practical application of NLP basics
+- UI/UX design using Figma
+- Solving a real-world problem for job seekers
+
+---
+
+## 🔮 Future Enhancements
+- Resume score generation
+- Support for multiple resume formats
+- Advanced NLP using ML models
+- Downloadable optimized resume suggestions
+- Web-based interface
